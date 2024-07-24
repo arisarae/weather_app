@@ -1,6 +1,6 @@
 # Weather App
 
-This project was originally developed as part of my coursework and has been cloned to this personal repository for further development and showcasing. The objective of this project is to create a weather application that provides real-time weather conditions for any searched city, with additional features for logged-in users.
+> This project was originally developed as part of my coursework and has been cloned to this personal repository for further development and showcasing. The objective of this project is to create a weather application that provides real-time weather conditions for any searched city, with additional features for logged-in users.
 
 ## About the Website
 
